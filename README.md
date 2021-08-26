@@ -1,2 +1,4 @@
-# Leozinho mil grau manda muito
-Aqui você verá senhor leozinho_milgrau mandando muito.
+#Hello, World! I'm Leo_JooJ
+
+##My project list:
+empty for now...
